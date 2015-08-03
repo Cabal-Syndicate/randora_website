@@ -1,5 +1,5 @@
 # Don't override secret_key
-/CabalSyndicate/CabalSyndicate/secret_key.py
+**/secret_key.py
 
 # Archive files
 *~
