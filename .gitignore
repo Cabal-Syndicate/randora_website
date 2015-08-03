@@ -1,3 +1,6 @@
+# Don't override secret_key
+secret_key.py
+
 # Archive files
 *~
 
